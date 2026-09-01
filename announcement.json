@@ -1,0 +1,10 @@
+{
+  "id": "2026-09-01-01",
+  "enabled": true,
+  "title": "مرحباً بكم في KBase",
+  "message": "هذه رسالة تجريبية.\nيمكنك تعديل هذا النص في أي وقت من ملف announcement.json على GitHub.",
+  "type": "info",
+  "buttonText": "حسناً",
+  "downloadUrl": "",
+  "downloadLabel": "تحميل الملف"
+}
