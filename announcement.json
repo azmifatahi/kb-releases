@@ -1,10 +1,10 @@
 {
-  "id": "2026-09-01-01",
+  "id": "2026-09-01-03",
   "enabled": true,
   "title": "مرحباً بكم في KBase",
-  "message": "هذه رسالة تجريبية.\nيمكنك تعديل هذا النص في أي وقت من ملف announcement.json على GitHub.",
+  "message": "يمكنكم تحميل ملف Score من الزر أدناه.",
   "type": "info",
   "buttonText": "حسناً",
-  "downloadUrl": "",
+  "downloadUrl": "https://github.com/azmifatahi/kb-desktop-app/releases/download/i1.0.0/score.xlsx",
   "downloadLabel": "تحميل الملف"
 }
